@@ -1,0 +1,2 @@
+../resources/objects/test_object.txt
+../resources/objects/player_test.txt
